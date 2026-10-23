@@ -24,4 +24,5 @@ What I'm actively working on:
 
 You can view the mods tested with this one here: https://github.com/Kaylaable/Bring-Back-The-Old-Hurtsounds/blob/main/Mods%20Tested
 
-You can view any known issues in the issues tab (so, instabilities, crashes, or possible conflicts)! If you find one yourself, please make an Issue! I will look into it <3
+You can view any known issues in the issues tab (so, instabilities, crashes, or possible conflicts)!
+Please read the known issues before creating a new one or it may be marked as a clone! If you have issues AFTER trying the fixes, or if you find something wrong, please make your own Issue! I will look into it for y'all <3
