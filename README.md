@@ -6,6 +6,12 @@ I work on this mod all by myself! I have no extra team, however, obviously this 
 
 -----------------------------
 
+Release Order:
+
+- Mods are always released here on GitHub first! This does not mean they will always work as soon as it's released, the first hour is for testing everything and testing more mods, then it's released to Modrinth next, and CurseForge second.
+
+-----------------------------
+
 What I'm actively working on:
 
 - The DataPack! That means you no longer would have to install either Forge (legacy versions of this mod, unfortunately, unsupported from 23/10/26 by me), Fabric or NeoForge and can play with this mod on a completely vanilla (no mods) version of Minecraft!
